@@ -1,0 +1,9 @@
+C:\Users\l_san\Documents\GitHub\Passagens\ConsumindoServico\bin\Debug\ConsumindoServico.exe.config
+C:\Users\l_san\Documents\GitHub\Passagens\ConsumindoServico\bin\Debug\ConsumindoServico.exe
+C:\Users\l_san\Documents\GitHub\Passagens\ConsumindoServico\bin\Debug\ConsumindoServico.pdb
+C:\Users\l_san\Documents\GitHub\Passagens\ConsumindoServico\obj\Debug\ConsumindoServico.Form1.resources
+C:\Users\l_san\Documents\GitHub\Passagens\ConsumindoServico\obj\Debug\ConsumindoServico.Properties.Resources.resources
+C:\Users\l_san\Documents\GitHub\Passagens\ConsumindoServico\obj\Debug\ConsumindoServico.csproj.GenerateResource.cache
+C:\Users\l_san\Documents\GitHub\Passagens\ConsumindoServico\obj\Debug\ConsumindoServico.csproj.CoreCompileInputs.cache
+C:\Users\l_san\Documents\GitHub\Passagens\ConsumindoServico\obj\Debug\ConsumindoServico.exe
+C:\Users\l_san\Documents\GitHub\Passagens\ConsumindoServico\obj\Debug\ConsumindoServico.pdb

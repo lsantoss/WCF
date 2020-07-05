@@ -1,0 +1,6 @@
+C:\Users\l_san\Documents\GitHub\Passagens\Passagens\bin\Debug\Passagens.dll.config
+C:\Users\l_san\Documents\GitHub\Passagens\Passagens\bin\Debug\Passagens.dll
+C:\Users\l_san\Documents\GitHub\Passagens\Passagens\bin\Debug\Passagens.pdb
+C:\Users\l_san\Documents\GitHub\Passagens\Passagens\obj\Debug\Passagens.csproj.CoreCompileInputs.cache
+C:\Users\l_san\Documents\GitHub\Passagens\Passagens\obj\Debug\Passagens.dll
+C:\Users\l_san\Documents\GitHub\Passagens\Passagens\obj\Debug\Passagens.pdb
